@@ -1,0 +1,15 @@
+25/6:
+11:30 PM - Start
+2 :30 AM - Pause
+
+26/6:
+3 :30 AM - Resume
+7 :30 AM - Pause
+12:45 PM - Resume
+4 :30 PM - Pause
+
+27/6:
+2 :30 AM - Resume
+12:45 PM - Stop
+
+21 hours total
